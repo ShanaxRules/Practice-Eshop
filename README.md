@@ -1,0 +1,1 @@
+Just a normal practice of Tailwind css to make responsive website . Hence an ordinary eshop landing page.
